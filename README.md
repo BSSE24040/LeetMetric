@@ -97,13 +97,11 @@ https://leetcode-stats-api.herokuapp.com/{username}
 Replace `{username}` with any valid LeetCode username.
 
 ---
-
 ## Screenshot
 
+> LeetMetric Dashboard Preview
 
-```
-![alt text](image.png)
----
+![LeetMetric UI](image.png)
 
 ## Future Improvements
 
